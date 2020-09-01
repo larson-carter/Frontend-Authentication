@@ -9,6 +9,9 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@master
 
+      - name: Install npm
+        uses: actions/setup-node@v1
+
       - name: Deploy to Netlify
         # NETLIFY_AUTH_TOKEN added in the repo's secrets
         env:
