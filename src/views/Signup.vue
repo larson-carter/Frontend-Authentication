@@ -4,7 +4,7 @@
     <div>
       <img class="mx-auto h-12 w-auto" src="https://tailwindui.com/img/logos/workflow-mark-on-white.svg" alt="Workflow">
       <h2 class="mt-6 text-center text-3xl leading-9 font-extrabold text-gray-900">
-        Login to your account
+        Login
       </h2>
       <p class="mt-2 text-center text-sm leading-5 text-gray-600">
         Or
@@ -46,7 +46,7 @@
               <path fill-rule="evenodd" d="M5 9V7a5 5 0 0110 0v2a2 2 0 012 2v5a2 2 0 01-2 2H5a2 2 0 01-2-2v-5a2 2 0 012-2zm8-2v2H7V7a3 3 0 016 0z" clip-rule="evenodd" />
             </svg>
           </span>
-          Sign in
+          Login
         </button>
       </div>
     </form>
